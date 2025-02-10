@@ -5,7 +5,7 @@ import speech_recognition as sr
 # Initialize the text-to-speech engine
 engine = pyttsx3.init()
 
-key ="AIzaSyA7-DIy80ZupxsXcMaCSDZdfwu-i4IJLvM"
+key ="your api key (we used Gemini)"
 
 def speak(text):
     """Convert text to speech."""
